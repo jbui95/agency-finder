@@ -1,0 +1,1069 @@
+{
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "6588 Church St",
+                    "address_2": "",
+                    "city": "Douglasville",
+                    "name": "Stallings Insurance Agency, Inc.",
+                    "phone": "8443979302",
+                    "state": "GA",
+                    "zipcode": "30134",
+                    "email": [
+                        "jane.doe@stallingsinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.744422,
+                        33.751671
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "4225 Washington Rd",
+                    "address_2": "Ste A",
+                    "city": "East Point",
+                    "name": "General Services & Insurance Brokers, Inc",
+                    "phone": "8444851222",
+                    "state": "GA",
+                    "zipcode": "30344",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.448685,
+                        33.719517
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "991 Cascade Road SW",
+                    "address_2": "",
+                    "city": "Atlanta",
+                    "name": "Gibb Insurance Agency",
+                    "phone": "4047583511",
+                    "state": "GA",
+                    "zipcode": "30331",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.433982,
+                        33.756198
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1873 Lawrenceville Highway",
+                    "address_2": "",
+                    "city": "Decatur",
+                    "name": "The Henry Agency Inc.",
+                    "phone": "8446958560",
+                    "state": "GA",
+                    "zipcode": "30033",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.434148,
+                        33.839229
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "931 Monroe Dr",
+                    "address_2": "Ste 102A-325",
+                    "city": "Atlanta",
+                    "name": "Layr Holdings, Inc.",
+                    "phone": "4044977896",
+                    "state": "GA",
+                    "zipcode": "30308",
+                    "email": [
+                        "janedoe@layrholdings.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.389873,
+                        33.756198
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1100 Peachtree St NE",
+                    "address_2": "",
+                    "city": "Atlanta",
+                    "name": "Pelt Risk Advisors",
+                    "phone": "8884001950",
+                    "state": "GA",
+                    "zipcode": "30309",
+                    "email": [
+                        "djohn@peltriskadvisors.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.37517,
+                        33.73786
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1559 Lilburn Stone Mountain Road",
+                    "address_2": "",
+                    "city": "Stone Mountain",
+                    "name": "Georgia Premier Insurance Associates",
+                    "phone": "8447016317",
+                    "state": "GA",
+                    "zipcode": "30083",
+                    "email": [
+                        "j.doe@georgiapremierinsurance.com",
+                        "f.doe@georgiapremierinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.138931,
+                        33.777905
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "300 E John Street",
+                    "address_2": "Suite 150",
+                    "city": "Matthews",
+                    "name": "Moulton Insurance Group - Matthews",
+                    "phone": "8443771362",
+                    "state": "NC",
+                    "zipcode": "28105",
+                    "email": [
+                        "k.moulton@moultoninsurancegroup.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -80.745368,
+                        35.143485
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "132 North McDowell Street",
+                    "address_2": "",
+                    "city": "Charlotte",
+                    "name": "Hood, Hargett & Associates, Inc.",
+                    "phone": "7043741863",
+                    "state": "NC",
+                    "zipcode": "28204",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -80.818376,
+                        35.228275
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "2309 Randolph Road",
+                    "address_2": "",
+                    "city": "Charlotte",
+                    "name": "Litaker Insurance",
+                    "phone": "8445676201",
+                    "state": "NC",
+                    "zipcode": "28207",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -80.838155,
+                        35.215204
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "221 E Kingston Ave",
+                    "address_2": "",
+                    "city": "Charlotte",
+                    "name": "Moulton Insurance Group",
+                    "phone": "8446874160",
+                    "state": "NC",
+                    "zipcode": "28203",
+                    "email": "k.moulton@moultoninsurancegroup.com"
+                },
+                "geometry": {
+                    "coordinates": [
+                        -80.869827,
+                        35.202725
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "128 S Tryon St",
+                    "address_2": "Fl 3",
+                    "city": "Charlotte",
+                    "name": "First Citizens Insurance Services",
+                    "phone": "7043383836",
+                    "state": "NC",
+                    "zipcode": "28202",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -80.876357,
+                        35.236301
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1005 Tunnel Rd",
+                    "address_2": "",
+                    "city": "Asheville",
+                    "name": "Asheville Insurance Center",
+                    "phone": "8444017796",
+                    "state": "TN",
+                    "zipcode": "28805",
+                    "email": [
+                        "p.smith@ashevilleinsurancecenter.com",
+                        "m.wood@ashevilleinsurancecenter.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -82.515237,
+                        35.628348
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "982 Haywood Road",
+                    "address_2": "",
+                    "city": "Asheville",
+                    "name": "General Insurance Services of Asheville, Inc.",
+                    "phone": "8444821839",
+                    "state": "NC",
+                    "zipcode": "28806",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -82.569666,
+                        35.596257
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1100 Marion St",
+                    "address_2": "Ste 200",
+                    "city": "Knoxville",
+                    "name": "Shafer Insurance Agency",
+                    "phone": "8655460761",
+                    "state": "TN",
+                    "zipcode": "37921",
+                    "email": [
+                        "m.shafer@shaferinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -83.865557,
+                        35.957453
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "620 Market Street",
+                    "address_2": "Ste 100",
+                    "city": "Knoxville",
+                    "name": "21st Insurance Agency",
+                    "phone": "8655232120",
+                    "state": "TN",
+                    "zipcode": "37901",
+                    "email": [
+                        "kelly.doe@twentyfirstinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -83.897322,
+                        35.898266
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "837 N. Hall of Fame Dr. ",
+                    "address_2": "",
+                    "city": "Knoxville",
+                    "name": "Farmers Mutual Agency",
+                    "phone": "8655235153",
+                    "state": "TN",
+                    "zipcode": "37927",
+                    "email": [
+                        "jon.kelly@farmersmutual.com",
+                        "anne.down@famersmutual.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -83.90879,
+                        35.960054
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "6426-B Baum Dr",
+                    "address_2": "",
+                    "city": "Knoxville",
+                    "name": "Whedbee Insurance Agency, LLC",
+                    "phone": "4235842275",
+                    "state": "TN",
+                    "zipcode": "37901",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -83.940042,
+                        35.942832
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1717 Winston Rd",
+                    "address_2": "",
+                    "city": "Knoxville",
+                    "name": "William Knight Insurance",
+                    "phone": "8656702990",
+                    "state": "TN",
+                    "zipcode": "37919",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -83.991301,
+                        35.912778
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "6209 Baum Dr",
+                    "address_2": "",
+                    "city": "Knoxville",
+                    "name": "Inter-Agency Insurance Services",
+                    "phone": "8446458910",
+                    "state": "TN",
+                    "zipcode": "37919",
+                    "email": [
+                        "allie.doe@interagencyinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.009774,
+                        35.97254
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "110 South Illinois Ave",
+                    "address_2": "",
+                    "city": "Oak Ridge",
+                    "name": "Gray Insurance Agency, Inc.",
+                    "phone": "8654820513",
+                    "state": "TN",
+                    "zipcode": "37830",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -84.175812,
+                        36.017315
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "Liberty Tower",
+                    "address_2": "Suite 500",
+                    "city": "Chattanooga",
+                    "name": "Marsh & McLennan Agency",
+                    "phone": "4232678310",
+                    "state": "TN",
+                    "zipcode": "37450",
+                    "email": [
+                        "k.marsh@marshmclennanagency.com",
+                        "l.mclennan@marshmclennanagency.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -85.306207,
+                        35.038564
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "412 Georgia Ave",
+                    "address_2": "Ste 202",
+                    "city": "Chattanooga",
+                    "name": "RISE Insurance",
+                    "phone": "8446996759",
+                    "state": "TN",
+                    "zipcode": "37403",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -85.338229,
+                        35.071518
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "801 Broad Street",
+                    "address_2": "Suite 200",
+                    "city": "Chattanooga",
+                    "name": "Sunland Specialty Insurance Group LLC",
+                    "phone": "4234518348",
+                    "state": "TN",
+                    "zipcode": "37402",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -85.382746,
+                        35.061911
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "701 Market St ",
+                    "address_2": "Ste 500",
+                    "city": "Chattanooga",
+                    "name": "First Horizon Insurance Group, Inc.",
+                    "phone": "4237567821",
+                    "state": "TN",
+                    "zipcode": "37402",
+                    "email": [
+                        "tom.white@firsthorizoninsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -85.430484,
+                        35.026203
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "325 Market Street",
+                    "address_2": "",
+                    "city": "Chattanooga",
+                    "name": "Reliance Partners",
+                    "phone": "8446007227",
+                    "state": "TN",
+                    "zipcode": "37402",
+                    "email": [
+                        "harry.wood@reliancepartners.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -85.440706,
+                        35.071953
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1710 East Main Street",
+                    "address_2": "",
+                    "city": "Murfressboro",
+                    "name": "England Clark & Wade",
+                    "phone": "6153763060",
+                    "state": "TN",
+                    "zipcode": "37130",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.308615,
+                        35.874539
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "120 E Main St",
+                    "address_2": "Suite 350",
+                    "city": "Murfressboro",
+                    "name": "Compass Insurance Group",
+                    "phone": "8443247482",
+                    "state": "TN",
+                    "zipcode": "37130",
+                    "email": [
+                        "sara.comb@compassinsurancegroup.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.389482,
+                        35.85061
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1850 Memorial Blvd",
+                    "address_2": "",
+                    "city": "Murfreesboro",
+                    "name": "AmeriAgency Inc.",
+                    "phone": "8447365412",
+                    "state": "TN",
+                    "zipcode": "37129",
+                    "email": [
+                        "frank.water@ameriagency.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.439923,
+                        35.838489
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "215 29th Ave N",
+                    "city": "Nashville",
+                    "name": "Hale Insurance",
+                    "phone": "8446094720",
+                    "state": "TN",
+                    "zipcode": "37209",
+                    "email": [],
+                    "address_2": ""
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.765523,
+                        36.167457
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1033 Demonbreun St",
+                    "address_2": "Ste 300",
+                    "city": "Nashville",
+                    "name": "Tucker Insurance, LLC",
+                    "phone": "6154908598",
+                    "state": "TN",
+                    "zipcode": "37203",
+                    "email": [
+                        "jon.tucker@tuckerinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.773576,
+                        36.16299
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1117 17th Ave S",
+                    "address_2": "",
+                    "city": "Nashville",
+                    "name": "Frost Specialty, Inc.",
+                    "phone": "6153229171",
+                    "state": "TN",
+                    "zipcode": "37212",
+                    "email": [
+                        "nick.frost@frostspecialty.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.789511,
+                        36.154055
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "name": "Martin & Zerfoss, Inc.",
+                    "phone": "8445428114",
+                    "address_1": "6730 Charlotte Pike",
+                    "city": "Nashville",
+                    "state": "TN",
+                    "zipcode": "37209",
+                    "address_2": "",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.803101,
+                        36.160685
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "4004 Hillsboro Pk",
+                    "city": "Nashville",
+                    "name": "Thetford Insurance Services, Inc.",
+                    "phone": "6152972200",
+                    "state": "TN",
+                    "zipcode": "37215",
+                    "address_2": "Ste. B254",
+                    "email": [
+                        "brad.thetford@thetfordinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.798304,
+                        36.120337
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "7000 Executive Center Dr.",
+                    "address_2": "#115",
+                    "city": "Brentwood",
+                    "name": "Benton White Insurance",
+                    "phone": "8443009067",
+                    "state": "TN",
+                    "zipcode": "37027",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -86.775717,
+                        36.037431
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "395 South Main St",
+                    "address_2": "",
+                    "city": "Ashland",
+                    "name": "SouthPoint Risk - Ashland City",
+                    "phone": "",
+                    "state": "TN",
+                    "zipcode": "37015",
+                    "email": [
+                        "betty.snow@southpointrisk.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -87.061927,
+                        36.279627
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "2671 Fairview Blvd",
+                    "address_2": "Ste 102",
+                    "city": "Fairview",
+                    "name": "Goldstein Insurance Agency, LLC",
+                    "phone": "8446875266",
+                    "state": "TN",
+                    "zipcode": "37062",
+                    "email": [
+                        "harry.goldstein@goldsteininsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -87.119779,
+                        35.98128
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1997 Madison St",
+                    "address_2": "",
+                    "city": "Clarksville",
+                    "name": "Mann, Smith & Cummings Insurance, LLC",
+                    "phone": "8446855368",
+                    "state": "TN",
+                    "zipcode": "37043",
+                    "email": [
+                        "k.mann@mscinsurance.com",
+                        "l.smith@mscinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -87.248754,
+                        36.526525
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "798 Iron Wood Cir",
+                    "address_2": "",
+                    "city": "Clarksville",
+                    "name": "Hamric Insurance Agency",
+                    "phone": "8443021308",
+                    "state": "TN",
+                    "zipcode": "37043",
+                    "email": [
+                        "g.hamric@hamricinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -87.312493,
+                        36.552742
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "31 Natchez Trace Dr S",
+                    "address_2": "",
+                    "city": "Lexington",
+                    "name": "Carnal-Roberts Agency Inc.",
+                    "phone": "8445148085",
+                    "state": "TN",
+                    "zipcode": "38351",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -88.493361,
+                        35.70329
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1104 W Van Hook",
+                    "address_2": "",
+                    "city": "Milan",
+                    "name": "Moore-White Insurance",
+                    "phone": "",
+                    "state": "TN",
+                    "zipcode": "38358",
+                    "email": [
+                        "kmoorewhite@moorewhiteinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -88.659421,
+                        35.733251
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "317 E Orleans St",
+                    "address_2": "",
+                    "city": "Jackson",
+                    "name": "Haven Insurance Partners",
+                    "phone": "7315774300",
+                    "state": "TN",
+                    "zipcode": "38301",
+                    "email": [
+                        "j.doe@haveninsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -88.852235,
+                        35.611903
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "334 S Main St",
+                    "address_2": "",
+                    "city": "Dyer",
+                    "name": "Siler Thorton Agency",
+                    "phone": "7316923731",
+                    "state": "TN",
+                    "zipcode": "38330",
+                    "email": [
+                        "siler.thorton@silerthortonagency.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -89.120698,
+                        36.047157
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "16720 US Highway 64",
+                    "address_2": "",
+                    "city": "Somerville",
+                    "name": "FINS Agency, LLC",
+                    "phone": "8447376972",
+                    "state": "TN",
+                    "zipcode": "38068",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -89.729583,
+                        35.1319
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "530 Oak Ct",
+                    "address_2": "",
+                    "city": "Memphis",
+                    "name": "Sunstar Insurance Group, LLC",
+                    "phone": "",
+                    "state": "TN",
+                    "zipcode": "38117",
+                    "email": [
+                        "h.kelly@sunstarinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -89.954957,
+                        35.096264
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "4608 Quince Rd",
+                    "address_2": "",
+                    "city": "Memphis",
+                    "name": "Kellett Insurance Agency",
+                    "phone": "9016853008",
+                    "state": "TN",
+                    "zipcode": "38117",
+                    "email": [
+                        "m.kellett@kellettinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -89.999066,
+                        35.090249
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1568 Union Ave",
+                    "address_2": "",
+                    "city": "Memphis",
+                    "name": "Farris Evans Ins. Agency",
+                    "phone": "9012745425",
+                    "state": "TN",
+                    "zipcode": "38104",
+                    "email": [
+                        "f.harris@farrisevansinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -90.02112,
+                        35.156391
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "2670 Union Ave Ext",
+                    "address_2": "Ste 200",
+                    "city": "Memphis",
+                    "name": "Lipscomb & Pitts Insurance",
+                    "phone": "9013211000",
+                    "state": "TN",
+                    "zipcode": "38112",
+                    "email": []
+                },
+                "geometry": {
+                    "coordinates": [
+                        -90.043251,
+                        35.101715
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "1374 Airways Blvd",
+                    "address_2": "",
+                    "city": "Memphis",
+                    "name": "Fred L. Davis Insurance Agency",
+                    "phone": "9014522144",
+                    "state": "TN",
+                    "zipcode": "38114",
+                    "email": [
+                        "f.davis@fldinsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -90.117055,
+                        35.146989
+                    ],
+                    "type": "Point"
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "address_1": "8700 Trail Lake Dr W",
+                    "address_2": "Ste 100",
+                    "city": "Memphis",
+                    "name": "Kemmons Wilson Insurance Group, LLC",
+                    "phone": "9013468808",
+                    "state": "TN",
+                    "zipcode": "38125",
+                    "email": [
+                        "t.smith@kemmonswilsoninsurance.com"
+                    ]
+                },
+                "geometry": {
+                    "coordinates": [
+                        -90.209311,
+                        35.086618
+                    ],
+                    "type": "Point"
+                }
+            }
+        ]
+    }
