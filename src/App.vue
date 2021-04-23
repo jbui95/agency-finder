@@ -64,6 +64,7 @@
     margin-bottom: 1em;
     text-transform: uppercase; 
     color: #815F99;
+    font-size: .8em;
   }
   h1 {
     letter-spacing: 3px;
