@@ -7,6 +7,8 @@ Example zip codes to get started:
 
 ## Project setup
 ```
+clone repo
+cd 'project folder location'
 npm install
 ```
 
